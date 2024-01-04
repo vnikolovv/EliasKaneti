@@ -214,7 +214,7 @@ h3 {
 /* Main */
 
 .background-image {
-    background-image: url("images/cover.jpg");
+    background-image: url("images/cover.webp");
     background-position: center;
     background-size: cover;
     background-color: #f2f2f2;
